@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Profile%20views&color=0e75b6&style=flat" alt="h4xor7" /> </p>
  <img align="right" width="40%" src="https://raw.githubusercontent.com/luisjeremias/luisjeremias/master/gif.gif" alt="Coder"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-sparsh&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-sparsh" /> </p>
