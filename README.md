@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh Pandey</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4xor7&label=Profile%20views&color=0e75b6&style=flat" alt="h4xor7" /> </p>
+ <img align="right" width="40%" src="https://raw.githubusercontent.com/luisjeremias/luisjeremias/master/gif.gif" alt="Coder"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-sparsh&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-sparsh" /> </p>
 
 - 🌱 I’m currently learning **Laravel 8**
@@ -17,4 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh-sparsh&show_icons=true&locale=en&layout=compact" alt="saurabh-sparsh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh-sparsh&show_icons=true&locale=en" alt="saurabh-sparsh" /></p>
+
+![Snake animation](https://github.com/luisjeremias/luisjeremias/blob/output/github-contribution-grid-snake.svg)
+
 
